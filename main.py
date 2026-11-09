@@ -8,7 +8,7 @@ import sys
 import subprocess
 from levenshtein import levenshtein
 from sklearn.metrics.pairwise import cosine_similarity
-#streamlit для интерфейса!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 # ==========================
 # 0. ФУНКЦИИ ДЛЯ ФИЛЬТРАЦИИ (МЕТРИКИ СХОДСТВА)
